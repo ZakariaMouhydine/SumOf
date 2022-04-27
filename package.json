@@ -1,0 +1,16 @@
+{
+  "name": "SumOf",
+  "version": "1.0.0",
+  "main": "SumOf.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
